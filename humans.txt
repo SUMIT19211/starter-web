@@ -4,6 +4,8 @@
 # TEAM
 
     <name> Sumit Uniyal -- <role> -engineer- <twitter>
+    My name is Sumit Uniyal.
+    This is devops course.
 
 # THANKS
 
